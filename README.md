@@ -18,7 +18,9 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 
 6)Se volete mettere l'icona di Webex fate tasto destro > proprietà sul nuovo collegamento, poi "cambia icona" e puntate al file "Meetings_Iconx2.ico" nella cartella del programma;
 
-7)Enjoy!
+7)Aprite il collegamento facendo doppio click, probabilmente ci saranno degli avvisi sulla sicurezza da ignorare, se non vi fidate potete compilare autonomamente tutti e due gli eseguibili da "GetInput.asm" e dalla prima fonte qui sotto;
+
+8)Enjoy!
 
 
 CREDITS:  
