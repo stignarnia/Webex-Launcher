@@ -1,4 +1,4 @@
-Questo programma permette di accedere velocememente alle stanze Webex di due professori per tre materie
+Questo programma per Windows permette di accedere velocememente alle stanze Webex di due professori per tre materie
 
 
 COME USARE IL PROGRAMMA:
