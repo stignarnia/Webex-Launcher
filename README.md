@@ -19,4 +19,8 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 5)Enjoy!
 
 
-DISCLAIMER: I file eseguibili sono pubblici ma Closed Source e non so neanche di chi siano, quindi usate il programma a vostro rischio
+DISCLAIMER: getinput.exe è pubblico ma Closed Source e non so neanche di chi sia, quindi usate il programma a vostro rischio
+
+CREDITS:
+-batbox.exe: https://github.com/TheBATeam/BATBOX-An-Awesome-Batch-Plugin
+-Button.bat: Hamza
