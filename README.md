@@ -17,3 +17,6 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 5)Spostate il file Webex Launcher.ink sul desktop e apritelo;
 
 5)Enjoy!
+
+
+DISCLAIMER: I file eseguibili sono pubblici ma Closed Source e non so neanche di chi siano, quindi usate il programma a vostro rischio
