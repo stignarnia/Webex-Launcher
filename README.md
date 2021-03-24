@@ -20,7 +20,7 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 
 
 DISCLAIMER:  
--getinput.exe è pubblico ma Closed Source e non so neanche di chi sia, quindi usate il programma a vostro rischio
+-GetInput.exe è pubblico ma Closed Source e non so neanche di chi sia, quindi usate il programma a vostro rischio
 
 CREDITS:  
 -batbox.exe: https://github.com/TheBATeam/BATBOX-An-Awesome-Batch-Plugin  
