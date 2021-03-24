@@ -22,4 +22,4 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 CREDITS:  
 -batbox.exe: https://github.com/TheBATeam/BATBOX-An-Awesome-Batch-Plugin  
 -Button.bat: https://github.com/Psi505/Batch-GUI-Button  
--GetInput.exe: https://www.dostips.com/forum/viewtopic.php?f=3&t=5330&p=32241#p32241
+-GetInput.exe: Antonio Perez Ayal
