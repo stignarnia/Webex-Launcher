@@ -19,9 +19,7 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 5)Enjoy!
 
 
-DISCLAIMER:  
--GetInput.exe è pubblico ma Closed Source e non so neanche di chi sia, quindi usate il programma a vostro rischio
-
 CREDITS:  
 -batbox.exe: https://github.com/TheBATeam/BATBOX-An-Awesome-Batch-Plugin  
--Button.bat: Hamza
+-Button.bat: https://github.com/Psi505/Batch-GUI-Button  
+-GetInput.exe: https://www.dostips.com/forum/viewtopic.php?f=3&t=5330&p=32241#p32241
