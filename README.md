@@ -28,7 +28,7 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 CREDITS:  
 -batbox.exe: https://github.com/TheBATeam/BATBOX-An-Awesome-Batch-Plugin  
 -Button.bat: https://github.com/Psi505/Batch-GUI-Button  
--GetInput.exe (source in GetInput.asm): Antonio Perez Ayal
+-GetInput.exe: https://github.com/stignarnia/getinput
 
 IMMAGINI DI ESEMPIO:  
 
