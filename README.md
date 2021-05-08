@@ -4,21 +4,21 @@
 
 ### Come usare il programma
 
-* Scaricate la repository, estraetela in qualsasi cartella e modificate il file "config.bat" (ad esempio usando "apri con > Blocco Note") per impostare i link alle stanze
+* Scaricate la repository, estraetela in qualsasi cartella e modificate il file `config.bat` (ad esempio usando "apri con > Blocco Note") per impostare i link alle stanze
 Webex e i nomi dei professori e delle materie. Potete anche modificare il browser con cui lanciare il programma, che verrà chiuso al termine dell'operazione
 quindi mettetene uno che non rischiate di avere già aperto e di perdere anche le altre schede;
 
-* Scaricate e installate Cisco Webex Meetings da https://www.webex.com/downloads.html;
+* Scaricate e installate Cisco Webex **Meetings**;
 
 * Eseguite l'accesso a Cisco Webex Meetings con le credenziali del Poli;
 
-* Aprite il browser selezionato al passaggio 1, recatevi su https://www.webex.com/it/index.html e accedete con le credenziali del Poli;
+* Aprite il browser selezionato al primo passaggio, recatevi [qui](https://www.politecnicomilano.webex.com/) e accedete con le credenziali del Poli;
 
-* Fate tasto destro sul file "Webex Launcher.bat" e fate "invia a > desktop (crea collegamento)";
+* Fate tasto destro sul file `Webex Launcher.bat` e fate "invia a > desktop (crea collegamento)";
 
-* Se volete mettere l'icona di Webex fate tasto destro > proprietà sul nuovo collegamento, poi "cambia icona" e puntate al file "Meetings_Iconx2.ico" nella cartella del programma;
+* Se volete mettere l'icona di Webex fate "tasto destro > proprietà" sul nuovo collegamento, poi "cambia icona" e puntate al file `Meetings_Iconx2.ico` nella cartella del programma;
 
-* Aprite il collegamento facendo doppio click, probabilmente ci saranno degli avvisi sulla sicurezza da ignorare, se non vi fidate potete compilare autonomamente tutti e due gli eseguibili da "GetInput.asm" e dalla prima fonte qui sotto;
+* Aprite il collegamento facendo doppio click, probabilmente ci saranno degli avvisi sulla sicurezza da ignorare.
 
 * Enjoy!
 
