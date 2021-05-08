@@ -12,7 +12,7 @@ quindi mettetene uno che non rischiate di avere già aperto e di perdere anche l
 
 * Eseguite l'accesso a Cisco Webex Meetings con le credenziali del Poli;
 
-* Aprite il browser selezionato al primo passaggio, recatevi [qui](https://www.politecnicomilano.webex.com/) e accedete con le credenziali del Poli;
+* Aprite il browser selezionato al primo passaggio, recatevi [qui](https://politecnicomilano.webex.com/) e accedete con le credenziali del Poli;
 
 * Fate tasto destro sul file `Webex Launcher.bat` e fate "invia a > desktop (crea collegamento)";
 
